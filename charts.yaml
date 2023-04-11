@@ -1,6 +1,6 @@
 apiVersion: v2
 name: wordsmith-db
-description: A Helm chart for wordsmith-api
+description: A Helm chart for wordsmith-db
 type: database
 version: 0.1.0
 appVersion: "1.16.0"
